@@ -1,1 +1,1 @@
-print("i love itthiphol")
+print("i love itthiphol Please give me A grade.")
